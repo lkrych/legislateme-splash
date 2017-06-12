@@ -322,8 +322,7 @@ header {
 	margin: 0 10px;
 }
 .owl-carousel .item img {
-	border:5px solid #ccc;
-	border-radius: 5px;
+	
 }
 .owl-theme .owl-controls{
 	margin-top: 25px;
