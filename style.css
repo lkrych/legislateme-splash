@@ -160,7 +160,7 @@ textarea:focus {
    3. Section Header
 ========================================= */
 header {
-	background: url(images/bg.jpg) 50% 0 no-repeat fixed;
+	background: url(images/bg6.jpg) 50% 0 no-repeat fixed;
 	background-size: cover;
 }
 .top .photo-slide {
@@ -751,7 +751,7 @@ header {
    12. Section Download
 ========================================= */
 #download {
-	background: url(images/bg5.jpg) 50% 0 no-repeat fixed;
+	background: url(images/bg6.jpg) 50% 0 no-repeat fixed;
 	background-size: cover;
 }
 .download {
