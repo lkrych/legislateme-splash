@@ -117,6 +117,7 @@ ul li {
 	background: rgba(0, 0, 0, 0.5);
 }
 .section-padding {
+  height: 100vh;
 	padding-top: 100px;
 	padding-bottom:50px;
 }
@@ -322,7 +323,7 @@ header {
 	margin: 0 10px;
 }
 .owl-carousel .item img {
-	
+
 }
 .owl-theme .owl-controls{
 	margin-top: 25px;
