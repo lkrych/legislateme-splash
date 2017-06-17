@@ -160,7 +160,7 @@ textarea:focus {
    3. Section Header
 ========================================= */
 header {
-	background: url(images/bg6.jpg) 50% 0 no-repeat fixed;
+	background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(images/bg6.jpg) 50% 0 no-repeat fixed;
 	background-size: cover;
 }
 .top .photo-slide {
