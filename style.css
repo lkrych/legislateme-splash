@@ -414,6 +414,7 @@ header {
 	font-size: 28px;
 	margin-bottom: 30px;
 	font-weight: 100;
+  font-style: italic;
 }
 .description .content .button .get-btn {
 	padding-right: 30px;
