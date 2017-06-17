@@ -160,32 +160,31 @@ textarea:focus {
    3. Section Header
 ========================================= */
 header {
-	background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(images/bg6.jpg) 50% 0 no-repeat fixed;
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(images/bg6.jpg) 50% 0 no-repeat fixed;
 	background-size: cover;
 }
 .top .photo-slide {
-	max-width: 252px;
+	max-width: 40vmin;
 	margin: auto;
 	padding-bottom: 50px;
 }
 .top .photo-slide img {
-	width: 252px;
-	height: 469px;
+	width: 40vmin;
 }
 .top .content {
 	color: #fff;
 }
 .top .content h1 {
-	font-size: 72px;
+	font-size: 14vmin;
 	margin-top: 50px;
 }
 .top .content h2 {
-	font-size: 32px;
+	font-size: 5vmin;
 	font-weight: 300;
 	margin-bottom: 30px;
 }
 .top .content p {
-	font-size: 18px;
+	font-size: 3vmin;
 	margin-bottom: 70px;
 	letter-spacing: 1px;
 }
